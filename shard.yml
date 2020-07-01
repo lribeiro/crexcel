@@ -1,9 +1,9 @@
 name: crexcel
-version: 0.1.2
+version: 0.1.3
 
 authors:
   - Monpt7 <viallo_l@etna-alternance.net>
-
-crystal: 0.34.0
+  - Luis Ribeiro <ribeiro.luis@gmail.com>
+crystal: 0.35.1
 
 license: MIT
